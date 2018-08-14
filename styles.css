@@ -1,0 +1,30 @@
+body nav {
+    background-color: black;
+}
+
+.navbar a {
+    color: white;
+}
+
+.def-header {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.def-context {
+    padding-top: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+
+.container-fluid {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px
+}
+
+.bannercontainer {
+    padding-top: 50px;
+}
